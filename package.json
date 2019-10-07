@@ -1,0 +1,16 @@
+{
+  "name": "subsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subsum.js",
+  "dependencies": {
+    "@haensl/subset-sum": "^2.0.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
